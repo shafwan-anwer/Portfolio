@@ -18,22 +18,22 @@ const data = [
   {
     avatar: AVTR1,
     name: 'tina snow',
-    review: 'cnerjfnfnrhvnhvnejfnjnejncdjjdjjjcnjdwdwjnfergeinggnefnejifniwjfnjfnjnfjefnfej'
+    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam omnis, quaerat cumque quia aliquam dicta totam recusandae praesentium provident laudantium incidunt explicabo corporis fuga iure asperiores accusamus voluptas illo error.'
   },
   {
     avatar: AVTR2,
     name: 'tina snow',
-    review: 'cnerjfnfnrhvnhvnejfnjnejncdjjdjjjcnjdwdwjnfergeinggnefnejifniwjfnjfnjnfjefnfej'
+    review:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam omnis, quaerat cumque quia aliquam dicta totam recusandae praesentium provident laudantium incidunt explicabo corporis fuga iure asperiores accusamus voluptas illo error.'
   },
   {
     avatar: AVTR3,
     name: 'tina snow',
-    review: 'cnerjfnfnrhvnhvnejfnjnejncdjjdjjjcnjdwdwjnfergeinggnefnejifniwjfnjfnjnfjefnfej'
+    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam omnis, quaerat cumque quia aliquam dicta totam recusandae praesentium provident laudantium incidunt explicabo corporis fuga iure asperiores accusamus voluptas illo error.'
   },
   {
     avatar: AVTR4,
     name: 'tina snow',
-    review: 'cnerjfnfnrhvnhvnejfnjnejncdjjdjjjcnjdwdwjnfergeinggnefnejifniwjfnjfnjnfjefnfej'
+    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam omnis, quaerat cumque quia aliquam dicta totam recusandae praesentium provident laudantium incidunt explicabo corporis fuga iure asperiores accusamus voluptas illo error.'
   },
 
 ]
@@ -44,24 +44,24 @@ const testimonials = () => {
       <h5>Review from clients</h5>
       <h2>Testimonials</h2>
 
-      <Swiper className="container testimonials_container"
-       modules={[ Pagination]}
-       spaceBetween={40}
-       slidesPerView={1}
-       pagination={{ clickable: true }}>
-       {
-        data.map(({avatar, name, review},index) => {
-          return (
+      <Swiper className='container testimonials_container'
+      modules={[Pagination]}
+      spaceBetween={40}
+      slidesPerView={1}
+      >
+      {
+        data.map(({avatar, name, review}, index) => {
+          return(
             <SwiperSlide key={index} className="testimonial">
               <div className='client_avatar'>
                 <img src={avatar}/>
               </div>
               <h5 className='client_name'>{name}</h5>
-              <small className='client_review'> {review} </small>
+              <small className='client_review'>{review}</small>
             </SwiperSlide>
           )
         })
-       }
+      }
       </Swiper>
       </section>
   )

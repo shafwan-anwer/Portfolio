@@ -18,6 +18,7 @@ const about = () => {
             <img src={ME} alt="About image" />
           </div>
         </div>
+
         <div className='about_content'>
           <div className='about_cards'>
             <article className='about_card'>
@@ -25,11 +26,13 @@ const about = () => {
               <h5>Experience</h5>
               <small>3+ Years Working</small>
             </article>
+
             <article className='about_card'>
               <FiUsers className='about_icon'/>
               <h5>Clients</h5>
               <small>22+ WorldWide</small>
             </article>
+            
             <article className='about_card'>
               <VscFolderLibrary className='about_icon'/>
               <h5>Projects</h5>
@@ -38,7 +41,7 @@ const about = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure saepe ipsa consectetur cupiditate. Asperiores, tempore reprehenderit molestiae magnam eius quis minus quisquam veritatis, blanditiis, suscipit vero. Consequatur harum iste facilis.
+          Track record of being an essential part of the management team and technical team and instrumental in providing effective solutions that produce immediate impact and contribute to the establishments of long-term success.
           </p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>

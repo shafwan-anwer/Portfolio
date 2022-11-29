@@ -12,38 +12,31 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto currency dashboard',
+    title: 'Ceilao Admin Panel Web',
     github: 'https://github.com',
     demo: 'https://dribble.com'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Crypto currency dashboard',
+    title: 'Ceilao Android App',
     github: 'https://github.com',
     demo: 'https://dribble.com'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Crypto currency dashboard',
+    title: 'E-Commerce Website',
     github: 'https://github.com',
     demo: 'https://dribble.com'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Crypto currency dashboard',
+    title: 'React Portfolio',
     github: 'https://github.com',
     demo: 'https://dribble.com'
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: 'Crypto currency dashboard',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
-  },
+  }
 
 ]
 
