@@ -1,8 +1,8 @@
 {
   "name": "react-portfolio-website-1",
-  "homepage":  "https://shafwan-anwer.github.io/Portfolio",
+  "homepage": "https://shafwan-anwer.github.io/Portfolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -42,6 +42,7 @@
     ]
   },
   "devDependencies": {
-    "eslint-plugin-react-hooks": "^4.6.0"
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "gh-pages": "^4.0.0"
   }
 }
