@@ -26,8 +26,8 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'E-Commerce Website',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    github: 'https://github.com/shafwan-anwer/smartshoppers.git',
+    demo: ''
   },
   {
     id: 4,
