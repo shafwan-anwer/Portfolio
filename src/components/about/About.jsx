@@ -41,7 +41,8 @@ const about = () => {
           </div>
 
           <p>
-          Track record of being an essential part of the management team and technical team and instrumental in providing effective solutions that produce immediate impact and contribute to the establishments of long-term success.
+            Hey There!!!
+            
           </p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>

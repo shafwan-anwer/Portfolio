@@ -12,15 +12,15 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Ceilao Admin Panel Web',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    github: 'https://github.com/shafwan-anwer/AdminPanelweb.git',
+    demo: 'http://admin-ceilao.epizy.com'
   },
   {
     id: 2,
     image: IMG2,
     title: 'Ceilao Android App',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    github: 'https://github.com/ushiradineth/carApp',
+    demo: 'https://github.com/ushiradineth/carApp/releases/tag/v1.0'
   },
   {
     id: 3,
@@ -33,8 +33,8 @@ const data = [
     id: 4,
     image: IMG4,
     title: 'React Portfolio',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    github: 'https://github.com/shafwan-anwer/Portfolio',
+    demo: 'https://shafwan-anwer.github.io/Portfolio/'
   }
 
 ]

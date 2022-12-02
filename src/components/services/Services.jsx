@@ -10,28 +10,28 @@ const services = () => {
     <div className='container services_container'>
         <article className='service'>
               <div className='service_head'>
-                <h3>UI/UX Design</h3>
+                <h3>Full Stack</h3>
               </div>
                   <ul className='service_list'>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Design client-side and server-side architecture.</p>
                         </li>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Work with development teams and product managers to ideate software solutions.</p>
                         </li>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Build features and applications with a mobile responsive design.</p>
                         </li>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Build the front-end of applications through appealing visual design.</p>
                         </li>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Develop and manage well-functioning databases and applications</p>
                         </li>
                   </ul>
         </article>
@@ -42,23 +42,23 @@ const services = () => {
                   <ul className='service_list'>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Proven working experience in web programming.</p>
                         </li>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Integrating data from various back-end services and databases.</p>
                         </li>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Cooperate with web designers to match visual design intent.</p>
                         </li>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Top-notch programming skills and in-depth knowledge of modern HTML/CSS.</p>
                         </li>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Familiarity with following programming languages: PHP, SQL, NOSQL, Javascript, React</p>
                         </li>
                   </ul>
         </article>
@@ -69,23 +69,23 @@ const services = () => {
                   <ul className='service_list'>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Proven experience as application developer.</p>
                         </li>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Ability to program in programming language such as C/C#/C++, Java & Flutter.</p>
                         </li>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Perform unit and integration testing before launch.</p>
                         </li>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Evaluate existing applications to reprogram, update and add new features.</p>
                         </li>
                         <li>
                           <BiCheck className="service_list-icon"/>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipi</p>
+                          <p>Write high quality source code to program complete applications within deadlines</p>
                         </li>
                   </ul>
         </article>
