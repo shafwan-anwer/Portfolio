@@ -31,19 +31,19 @@ const Contact = () => {
           <article className='contact_option'>
             <MdOutlineEmail className='contact_option-icon' />
             <h4>Email</h4>
-            <h5>shafwan.anwer@gmail.com</h5>
+            <h5></h5>
             <a href='mailto:shafwan.anwer@gmail.com'>send a message</a>
           </article>
           <article className='contact_option'>
             <MdCall className='contact_option-icon' />
             <h4>Call</h4>
-            <h5>+94 0774452475</h5>
+            <h5></h5>
             <a href="tel:+94774452475">Make a Call</a>
           </article>
           <article className='contact_option'>
             <SiWhatsapp className='contact_option-icon'/>
             <h4>WhatsApp</h4>
-            <h5>+94 0774452475</h5>
+            <h5></h5>
             <a href="https://api.whatsapp.com/send?phone=94774452475">send a message</a>
           </article>
         </div>
