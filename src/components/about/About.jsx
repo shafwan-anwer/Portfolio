@@ -42,7 +42,6 @@ const about = () => {
 
           <p>
             Hey There!!!
-            
           </p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
