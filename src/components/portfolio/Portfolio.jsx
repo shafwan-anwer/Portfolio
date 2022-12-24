@@ -35,6 +35,13 @@ const data = [
     title: 'React Portfolio',
     github: 'https://github.com/shafwan-anwer/Portfolio',
     demo: 'https://shafwan-anwer.github.io/Portfolio/'
+  },
+  {
+    id: 5,
+    image: IMG1,
+    title: 'Detox Photography Website',
+    github: '',
+    demo: ''
   }
 
 ]
