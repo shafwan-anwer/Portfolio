@@ -41,7 +41,7 @@ const data = [
     image: IMG1,
     title: 'Detox Photography Website',
     github: '',
-    demo: ''
+    demo: 'https://shafwan-anwer.github.io/photography/'
   }
 
 ]
