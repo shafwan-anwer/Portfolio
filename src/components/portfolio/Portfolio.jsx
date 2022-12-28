@@ -42,6 +42,13 @@ const data = [
     title: 'Detox Photography Website',
     github: '',
     demo: 'https://shafwan-anwer.github.io/photography/'
+  },
+  {
+    id: 5,
+    image: IMG2,
+    title: 'Shamrock Station Website',
+    github: '',
+    demo: 'https://shafwan-anwer.github.io/Shamrock/'
   }
 
 ]
