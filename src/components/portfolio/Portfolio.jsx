@@ -44,11 +44,18 @@ const data = [
     demo: 'https://shafwan-anwer.github.io/photography/'
   },
   {
-    id: 5,
+    id: 6,
     image: IMG2,
     title: 'Shamrock Station Website',
     github: '',
-    demo: 'https://shafwan-anwer.github.io/Shamrock/'
+    demo: 'https://shafwan-anwer.github.io/Shamrock-Station/'
+  },
+  {
+    id: 7,
+    image: IMG3,
+    title: '2Tuned Website',
+    github: '',
+    demo: 'https://shafwan-anwer.github.io/Tuned/'
   }
 
 ]
