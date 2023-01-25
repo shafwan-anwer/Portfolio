@@ -60,7 +60,7 @@ const data = [
   {
     id: 8,
     image: IMG1,
-    title: '',
+    title: 'Appoinment Scheduling Android app',
     github: '',
     demo: ''
   },
