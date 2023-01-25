@@ -56,6 +56,20 @@ const data = [
     title: '2Tuned Website',
     github: '',
     demo: 'https://shafwan-anwer.github.io/Tuned/'
+  },
+  {
+    id: 8,
+    image: IMG1,
+    title: '',
+    github: '',
+    demo: ''
+  },
+  {
+    id: 9,
+    image: IMG2,
+    title: 'SmartShoppers Inventory App',
+    github: '',
+    demo: ''
   }
 
 ]
