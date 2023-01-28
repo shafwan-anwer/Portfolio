@@ -12,7 +12,7 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Ceilao Admin Panel Web',
-    demo: 'http://admin-ceilao.epizy.com'
+    demo: 'https://youtu.be/9_QOexfGNZM'
   },
   {
     id: 2,
@@ -54,13 +54,13 @@ const data = [
     id: 8,
     image: IMG1,
     title: 'Appoinment Scheduling Android app',
-    demo: ''
+    demo: 'https://youtu.be/zb9xqfmVquc'
   },
   {
     id: 9,
     image: IMG2,
     title: 'SmartShoppers Inventory App',
-    demo: ''
+    demo: 'https://youtu.be/zDqyPvDsYAo'
   }
 
 ]
