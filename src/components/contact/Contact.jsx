@@ -19,8 +19,8 @@ const Contact = () => {
     }, (error) => {
       console.log(error.text);
     });
-
   };
+  
   return (
     <section id='contact'>
       <h5>Get in Touch</h5>
